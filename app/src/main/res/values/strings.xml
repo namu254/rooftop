@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Rooftop</string>
+
+
+    <!-- Fragment Names -->
+    <string name="fragment_home">Home</string>
+    <string name="fragment_saved">Saved</string>
+    <string name="fragment_profile">Profile</string>
+    <string name="fragment_Add">Post</string>
+
+
+    <!-- Dialog Names -->
+    <string name="dialog_select_photo">SelectPhoto</string>
+
+    <!--App Description-->
+    <string name="saved_item"> You have no saved Items </string>
+    <string name="app_description"> Hostel Listing and Marketplace </string>
+    <string name="dont_account">Don\'t have an account? </string>
+    <string name="sign_up">Sign up.</string>
+
+    <string name="have_an_account">Have an account? </string>
+    <string name="login">Log in.</string>
+
+
+    <!-- Database nodes -->
+    <string name="node_users">users</string>
+    <string name="node_posts">posts</string>
+    <string name="node_elasticsearch">elasticsearch</string>
+    <string name="node_watch_list">watch_list</string>
+
+
+
+
+</resources>

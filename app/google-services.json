@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "936982977647",
+    "firebase_url": "https://rooftop-e13e5.firebaseio.com",
+    "project_id": "rooftop-e13e5",
+    "storage_bucket": "rooftop-e13e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936982977647:android:01c8ce058b8644a6",
+        "android_client_info": {
+          "package_name": "com.example.root.rooftop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936982977647-seskt24odbcgj0ud4q5o9d8167tbacll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.rooftop",
+            "certificate_hash": "f03697c62345b72a31ac388b6801f320fa060867"
+          }
+        },
+        {
+          "client_id": "936982977647-thset5kfaljjclve4mdt69n8nlgn831e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAml2wpAvCoPnVfCiAFwRUE_-LdZvbicNQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936982977647-thset5kfaljjclve4mdt69n8nlgn831e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
